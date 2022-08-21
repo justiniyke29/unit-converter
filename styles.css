@@ -1,0 +1,12 @@
+div {
+    background-color: rgb(108, 87, 163);
+    text-align: center;
+    padding: 0px 50px 10px 50px;
+    color: white;
+    height: 150px;
+
+}
+body {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

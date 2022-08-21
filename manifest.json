@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Unit Converter",
+    "description": "converts from metric to imperial unit",
+    "action":{
+        "default_icon": "icon.png",
+        "default_popup": "index.html"
+    }
+
+}
